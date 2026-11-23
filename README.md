@@ -12,13 +12,20 @@ repositório: um contorno novo, documentado e licenciado, em vez de mais uma có
 
 | arquivo | o que é |
 |---|---|
+| `desenho-tecnico/vista-frontal.pdf` | o desenho de onde tudo deriva: corpo, escudo, braço, cavidades e furação |
 | `templates/gabarito-contorno-do-corpo.pdf` | contorno externo do corpo |
 | `templates/gabarito-cavidades.pdf` | cavidades internas e furação |
 | `templates/gabarito-escudo.pdf` | escudo |
 
-Os três são **PDF em escala 1:1**. As páginas são maiores que A3 — 331 × 472 mm, 318 × 472 mm e
-263 × 392 mm — então imprima em plotter, ou ladrilhe em A4 e emende. Em qualquer impressora,
-**desligue "ajustar à página"**: é ela que estraga a escala.
+O desenho vem primeiro; os três gabaritos saem dele. Quem quiser alterar o projeto mexe no
+desenho e gera gabaritos novos — quem só quer construir usa os gabaritos direto.
+
+Todos são **PDF em escala 1:1**, e todos têm página maior que A3: 312,7 × 863,4 mm o desenho,
+331 × 472 mm, 318 × 472 mm e 263 × 392 mm os gabaritos. Imprima em plotter, ou ladrilhe em A4 e
+emende. Em qualquer impressora, **desligue "ajustar à página"**: é ela que estraga a escala.
+
+O desenho é de contorno, sem cotas anotadas na folha. Como está em 1:1, dá para medir direto
+sobre ele; as medidas que governam a compatibilidade estão listadas abaixo.
 
 Antes de cortar qualquer coisa, meça uma cota conhecida no papel impresso e confira. Um erro de
 poucos por cento não se vê no papel e inutiliza o braço.
@@ -81,9 +88,9 @@ Pedro Ariel Lopes Cominatto Margarido, 2026.
 Full-size templates for an original electric guitar body, released under
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) so that any workshop can reproduce them.
 
-Three 1:1 PDFs: body outline, routing cavities, pickguard. Pages are larger than A3 — print on a
-plotter or tile onto A4, and **turn page scaling off**. Measure a known dimension on the printout
-before cutting.
+Four 1:1 PDFs: the front-view drawing everything derives from, plus three routing templates — body
+outline, cavities, pickguard. Pages are larger than A3 — print on a plotter or tile onto A4, and
+**turn page scaling off**. Measure a known dimension on the printout before cutting.
 
 Built around the Fender-standard interface: 25.5" (647.7 mm) scale, 56 × 76 mm neck pocket, four
 bolts on a 38.1 × 50.8 mm rectangle, Jaguar/Jazzmaster-style vibrato. Those figures are published
